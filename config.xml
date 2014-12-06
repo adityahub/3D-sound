@@ -10,4 +10,5 @@
         <access origin="*" />
         <preference name="Fullscreen" value="true" />
         <preference name="WebViewBounce" value="true" />
+        <gap:plugin name="com.pushwoosh.plugins.pushwoosh" version="3.4.1" />
     </widget>
